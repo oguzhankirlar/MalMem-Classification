@@ -1,4 +1,4 @@
-# Please cite this paper in your publications if it helps your research. Here are its BibTex entries:
+# Please cite this paper in your publications if it helps your research. Here is its BibTex entry:
 
 ```ruby
 @article{Kirlar2024,
